@@ -56,6 +56,9 @@ public class BasicCalculator {
             o = num1 / num2;
   
             break;
+	case '%':
+	     		
+	     o=((num1+num2)/2);
   
         default:
   
